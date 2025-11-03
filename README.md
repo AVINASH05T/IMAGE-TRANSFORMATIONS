@@ -1,5 +1,7 @@
-# 🖼️ IMAGE TRANSFORMATIONS
-
+# IMAGE TRANSFORMATIONS
+## EXPERIMENT NO: 4
+### NAME : AVINASH T
+### REG NO : 212223230026
 ## Aim
 To perform image transformations such as **Translation, Scaling, Shearing, Reflection, Rotation, and Cropping** using **OpenCV** and **Python**.
 
@@ -159,27 +161,37 @@ plt.show()
 
 **Image Translation**
 
-![alt text](image.png)
+<img width="931" height="463" alt="image" src="https://github.com/user-attachments/assets/b1a6607d-95c1-4975-b4f8-a780434dd3bf" />
+
+<img width="871" height="465" alt="image" src="https://github.com/user-attachments/assets/4eb9292d-0c41-48d5-870c-884838227f8e" />
+
 
 **Image Scaling**
 
-![alt text](image-1.png)
+<img width="804" height="272" alt="image" src="https://github.com/user-attachments/assets/30d7e01d-ce0c-4330-b4a1-9ecb3c6b2303" />
+
 
 **Image shearing**
 
-![alt text](image-2.png)
+<img width="1002" height="457" alt="image" src="https://github.com/user-attachments/assets/0d6b066c-ccb0-4a5a-882e-678f8368c4c1" />
+
 
 **Image Reflection**
 
-![alt text](image-3.png)
+<img width="1135" height="415" alt="image" src="https://github.com/user-attachments/assets/f15c08cb-318c-4735-be31-48018b5992f4" />
+
 
 **Image Rotation**
 
-![alt text](image-4.png)
+
+<img width="967" height="437" alt="image" src="https://github.com/user-attachments/assets/b3ca2a26-455f-41b7-b2fd-0d285422f94e" />
+
 
 **Image Cropping**
 
-![alt text](image-5.png)
+
+<img width="1106" height="456" alt="image" src="https://github.com/user-attachments/assets/f7bd6928-c193-4145-9a00-0866d26058c2" />
+
 
 ## Result
 
